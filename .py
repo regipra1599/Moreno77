@@ -6,9 +6,9 @@ g=('\033[1;32m')
 w=('\033[1;37m')
 print("""%s%s ,_     _‚
  |\\\___//|      %sAuthor  : Moreno77%s
- |=6   6=|      %sYoutube : youtube.com/c/DarkCurut08%s
- \=._Y_.=/      %sGithub  : github.com/DarkCurut08%s
-  )  `  (    ,  %sTEAM    : Curut BlackHat%s
+ |=6   6=|      %sInstagram : R_Pratama%s
+ \=._Y_.=/      %sTiktok  : Mamang PGI%s
+  )  `  (    ,  %sTEAM    : WhiteAnonymous%s
  /       \  ((
  |       |   ))
 /| |   | |\_// %s %s 
